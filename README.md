@@ -4,6 +4,6 @@
 ### 🖼️ Preview
 <img src="./img/nullc2.png" width="600" alt="NullC2 Banner">
 ### ✨ Features
-- Tes
 
-- tes
+- Tez
+- juga
