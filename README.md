@@ -19,7 +19,7 @@
 #### 🗒️ Requirements
 
 - 🐍 Python 3+
-- 💻 Terminal ( Termux, Linux ( Ubuntu / Debian ), Command Prompt )
+- 💻 Terminal ( Termux, Linux ( Ubuntu / Debian ), Command Prompt ( Windows )
 
 ### 🚀 Steps 
 #### Termux
