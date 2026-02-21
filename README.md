@@ -111,3 +111,6 @@ chmod +x nc2
 **NullC2Team**
 
 *The best Minecraft bot join server ( 0.15.10 - 0.14.x )*
+
+### 📜 Note
+***This script will continue to receive updates***
