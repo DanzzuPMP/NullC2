@@ -5,6 +5,9 @@
 **Banner**
 <img src="./img/nullc2.png" width="600" alt="NullC2 Banner">
 
+**Attack**
+<img src="./img/attack.jpg" width="600" alt="NullC2 Banner">
+
 ### ✨ Features
 
 - 🤖 Send Bot to join the server you want.
