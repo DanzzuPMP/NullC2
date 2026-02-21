@@ -45,12 +45,26 @@ chmod +x nc2
 ./nc2
 ```
 
-#### Linux
+#### Command Prompt ( Windows )
 ```
-apt install git
-```
-```
-apt install python3
+winget install Git.Git
 ```
 ```
-git
+winget install Python.Python.3
+```
+```
+git clone https://github.com/DanzzuPMP/NullC2
+```
+```
+cd NullC2
+```
+```
+pip install paramiko scp pyfiglet request
+```
+```
+nc2
+```
+if not work use
+```
+python3 nc2
+```
