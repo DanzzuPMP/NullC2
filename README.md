@@ -1,7 +1,7 @@
 # NullC2
 ### 📢 About NullC2
 **NullC2** is a DDOS script that sends multiple bots to join a server of your choice ( Only 0.15.10 - 0.14.x ).
-### 🖼️ Preview
+### 🖼️ Picture
 **Banner**
 <img src="./img/nullc2.png" width="600" alt="NullC2 Banner">
 
@@ -14,6 +14,8 @@
 - 🎯 Ip And Port server for the desired target.
 - 🗒️ Easily register bot names ( nick.txt )
 - 🌐 Connect with multiple VPS or connections
+
+*If you add more VPS or Connections then the number of bots will increase hugely*
 
 #### 🖥️ Appearance
 
