@@ -14,3 +14,5 @@
 - Simple and minimalist script display
 - Easy to use
 
+# 🛠️ Installation
+### 🗒️ Requirements
