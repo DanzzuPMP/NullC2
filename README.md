@@ -19,7 +19,7 @@
 #### 🗒️ Requirements
 
 - 🐍 Python 3+
-- 💻 Terminal ( Termux, VPS, Command Prompt )
+- 💻 Terminal ( Termux, Linux ( Ubuntu / Debian ), Command Prompt )
 
 ### 🚀 Steps 
 #### Termux
@@ -36,4 +36,12 @@ git clone https://github.com/DanzzuPMP/NullC2
 pip install paramiko scp pyfiglet request
 ```
 
-#### VPS or Command Prompt
+#### Linux
+```
+apt install git
+```
+```
+apt install python3
+```
+```
+git
