@@ -23,6 +23,7 @@
 
 ### 🚀 Steps 
 #### 1. Download or Clone
-```zsh
-Tes
+you can Download file nc2 or Clone the repository.
+```
+tes
 ```
