@@ -8,6 +8,7 @@
 
 - 🤖 Send Bot to join the server you want.
 - 🎯 Ip And Port server for the desired target.
+- 🗒️ Easily register bot names ( nick.txt )
 
 #### 🖥️ Appearance
 
@@ -16,3 +17,10 @@
 
 ### 🛠️ Installation
 #### 🗒️ Requirements
+
+- 🐍 Python 3+
+- 💻 Terminal ( Termux, VPS, Command Prompt )
+
+### 🚀 Steps 
+#### 1. Download or Clone
+```Tez```
