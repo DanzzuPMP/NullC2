@@ -23,4 +23,6 @@
 
 ### 🚀 Steps 
 #### 1. Download or Clone
-````Tez````
+```zsh
+Tes
+```
