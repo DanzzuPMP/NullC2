@@ -22,8 +22,5 @@
 - 💻 Terminal ( Termux, VPS, Command Prompt )
 
 ### 🚀 Steps 
-#### 1. Download or Clone
-you can Download file nc2 or Clone the repository.
-```
-tes
-```
+#### Termux
+**1. Tez**
