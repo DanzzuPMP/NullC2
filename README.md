@@ -105,6 +105,10 @@ chmod +x nc2
 ./nc2
 ```
 
+### 📝 Current Version
+
+- V1.0
+
 ### 🌟 Credits
 
 - Owner
