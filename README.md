@@ -33,7 +33,16 @@ pkg install python
 git clone https://github.com/DanzzuPMP/NullC2
 ```
 ```
+cd NullC2
+```
+```
 pip install paramiko scp pyfiglet request
+```
+```
+chmod +x nc2
+```
+```
+./nc2
 ```
 
 #### Linux
