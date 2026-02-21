@@ -97,3 +97,12 @@ chmod +x nc2
 ```
 ./nc2
 ```
+
+###🌟 Credits
+
+- Owner
+Danzu
+- Made by
+NullC2Team
+
+*The best Minecraft bot join server ( 0.15.10 - 0.14.x )*
