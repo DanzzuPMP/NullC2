@@ -23,4 +23,4 @@
 
 ### 🚀 Steps 
 #### 1. Download or Clone
-```Tez```
+````Tez````
