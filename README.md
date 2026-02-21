@@ -7,4 +7,10 @@
 ### ✨ Features
 
 - 🤖 Send Bot to join the server you want.
-- ⌨️ Attack the intended target easily.
+- 🎯 Ip And Port server for the desired target.
+
+#### 🖥️ Appearance
+
+- Simple and minimalist script display
+- Easy to use
+
