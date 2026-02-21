@@ -23,4 +23,17 @@
 
 ### 🚀 Steps 
 #### Termux
-**1. Tez**
+```
+pkg install git
+```
+```
+pkg install python
+```
+```
+git clone https://github.com/DanzzuPMP/NullC2
+```
+```
+pip install paramiko scp pyfiglet request
+```
+
+#### VPS or Command Prompt
