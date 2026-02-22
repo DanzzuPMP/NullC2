@@ -28,7 +28,7 @@
 - 🐍 Python 3+
 - 💻 Terminal ( Termux, Linux ( Ubuntu / Debian ), Command Prompt ( Windows )
 
-### 🚀 Steps 
+### 🚀 How to run on
 #### Termux
 ```
 pkg update
