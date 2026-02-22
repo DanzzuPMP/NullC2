@@ -105,6 +105,11 @@ chmod +x nc2
 ./nc2
 ```
 
+#### Panel Pterodactyl
+```
+Soon...
+```
+
 ### 📝 Current Version
 
 - V1.0
