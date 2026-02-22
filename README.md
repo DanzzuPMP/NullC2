@@ -119,4 +119,7 @@ chmod +x nc2
 *The best Minecraft bot join server ( 0.15.10 - 0.14.x )*
 
 ### 📜 Note
+
+*Will add how to run on Panel Pterodactyl Soon...*
+
 ***This script will continue to receive updates***
