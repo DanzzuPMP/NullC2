@@ -121,7 +121,7 @@ Soon...
 - Made by
 **NullC2Team**
 
-*The best Minecraft bot join server ( 0.15.10 - 0.14.x )*
+*Best Minecraft Script ( 0.15.10 - 0.14.x )*
 
 ### 📜 Note
 
